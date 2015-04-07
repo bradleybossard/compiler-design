@@ -8,3 +8,4 @@ Links
 * [Make your own assembler](https://www.mschweighauser.com/make-your-own-assembler-simulator-in-javascript-part1/)
 * [7 lines of code, 3 minutes: Implement a programming language from scratch](http://matt.might.net/articles/implementing-a-programming-language/)
 * [Hello, JIT World: The Joy of Simple JITs](http://blog.reverberate.org/2012/12/hello-jit-world-joy-of-simple-jits.html)
+* [Lambda Nights](http://lambda-nights.com/)
