@@ -12,6 +12,7 @@ A repo dedicated to language design and my compiler experiments
 * [Tutorials Point - Compiler Design](http://www.tutorialspoint.com/compiler_design/index.htm)
 * [Lambda Nights](http://lambda-nights.com/)
 * [Let’s Build A Simple Interpreter. Part 1. - Ruslan's Blog](http://ruslanspivak.com/lsbasi-part1/)
+* [How parsers and compilers work](http://parsingintro.sourceforge.net/)
 
 ## Tokenizers / Scanners
 * [Python regex tokenizer](https://gist.github.com/bradbeattie/2ab33e377f907a20fb6f)
